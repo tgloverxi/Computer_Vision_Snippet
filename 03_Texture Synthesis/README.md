@@ -1,2 +1,7 @@
-# Computer_Vision_Snippet
-This repo contains 6 interesting snippets which utilize the fundamental cutting-edge computer vision technique.
+# Texture Synthesis
+Implement and understand the texture synthesis approach of Efros and Leung. Use case: fill a cropped area with selected texture.
+
+### Citation
+The approach of Efros and Leung: https://www.cs.ubc.ca/~little/cpsc425/assignments/efrosLeung99.pdf
+
+
