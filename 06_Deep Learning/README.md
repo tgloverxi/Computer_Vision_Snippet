@@ -1,2 +1,2 @@
-# Computer_Vision_Snippet
-This repo contains 6 interesting snippets which utilize the fundamental cutting-edge computer vision technique.
+# Deep Learning
+The purpose of this snippet is to introduce deep learning with several cutting-edge models. Specifically, it consists of three parts: In the first part, implement various PyTorch deep learning layers using Numpy; in part two, experiment with different hyper-parameters on a image classification task and find the best hyper-parameters; lastly, investigate a state-of-the-art neural architecture from the PyTorch model zoo.
